@@ -1,0 +1,6 @@
+welcome: "Welcome to the Calculator"
+enter_name: "What is your name?"
+valid_name: "Make sure to enter a valid name."
+first_num_msg: "What's the first number?"
+second_num_msg: "What's the second number?"
+valid_num_msg: "Hmm...that doesn't look like a valid number."

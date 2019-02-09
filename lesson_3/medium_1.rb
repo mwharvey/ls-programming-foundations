@@ -21,3 +21,27 @@ end
 
 
 # Question 6: Refactor
+def tricky_method(a_string_param, an_array_param)
+  a_string_param += "rutabaga"
+  an_array_param += ["rutabaga"]
+end
+
+my_string = "pumpkins"
+my_array = ["pumpkins"]
+my_string, my_array = tricky_method(my_string, my_array)
+
+puts "My string looks like this now: #{my_string}"
+puts "My array looks like this now: #{my_array}"
+
+# Question 7
+34
+
+# Question 8
+yes
+
+
+# Question 9
+paper
+
+# Question 10
+no

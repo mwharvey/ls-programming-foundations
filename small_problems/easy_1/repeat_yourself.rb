@@ -6,6 +6,3 @@ def repeat(str, int)
 end
 
 repeat('Hello', 3)
-
-
-# 
